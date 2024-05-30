@@ -1,0 +1,10 @@
+import React from 'react';
+import studyCopilotIcon from '../../../assets/images/study-copilot-icon.png';
+
+const StudyCopilotIcon = () => {
+  return (
+    <img src={studyCopilotIcon} alt="Study Copilot Icon" />
+  );
+};
+
+export default StudyCopilotIcon;
